@@ -4,7 +4,7 @@
 
 This Image Generation Chatbot is a Streamlit application that uses OpenAI's DALL-E 3 model to generate images based on user prompts. It provides an interactive chat interface where users can describe the image they want, and the AI will generate and display the image in real-time.
 
-<img src="Images/imagegen_chatbot.png" alt="Image Generation Chatbot UI" width="30%" align="right">
+<img src="Images/imagegen_chatbot.png" alt="Image Generation Chatbot UI" width="50%" align="centre">
 
 ## Features
 
